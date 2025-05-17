@@ -86,10 +86,3 @@ ASP.NET Core MVC ile kurumsal e-ticaret platformu. Repository Pattern ve EF Core
 - **GitHub:** [github.com/HamzaCanturk61](https://github.com/HamzaCanturk61)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaCanturk61&show_icons=true&theme=react" alt="Hamza's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaCanturk61&layout=compact&theme=react" alt="Top Langs" />
-</p>
