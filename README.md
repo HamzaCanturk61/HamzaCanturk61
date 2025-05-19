@@ -71,13 +71,6 @@ ASP.NET Core MVC ile kurumsal e-ticaret platformu. Repository Pattern ve EF Core
 - **Düzce Üniversitesi** - Bilgisayar Programcılığı (Eyl 2019 - Haz 2021)
 - **Tuzla Mesleki ve Teknik Anadolu Lisesi** - Bilişim Teknolojileri (Eyl 2015 - Haz 2019)
 
-## 💼 İş Deneyimi
-
-- **BtPro Bilgi Teknolojileri** - Stajer (Ağu 2024 - Eyl 2024)
-- **ESPİRASOFT BİLİŞİM TEKNOLOJİLERİ** - Stajer (Tem 2024 - Ağu 2024)
-- **ESPİRASOFT BİLİŞİM TEKNOLOJİLERİ** - Stajer (Ağu 2021 - Eyl 2021)
-- **Pozitif Bilgisayar** - Stajer (Haz 2016 - Tem 2016)
-
 ## 📫 İletişim
 
 - **Email:** [info@hamzacanturk.com](mailto:info@hamzacanturk.com)
