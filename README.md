@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Hamza Cantürk Baş
 
-## 💻 Bilgisayar Mühendisi | Full-Stack Developer | AI-Powered Development Enthusiast
+## 💻 Bilgisayar Mühendisi | Full-Stack Developer |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzacanturk/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamzaCanturk61)
@@ -60,30 +60,30 @@ Kurumsal e-ticaret platformu. Admin paneli üzerinden kullanıcı, rol, izin ve 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Vision-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🔐 Authentication & Security
-- **JWT Authentication** - Token tabanlı kimlik doğrulama
-- **Identity Framework** - Kullanıcı ve rol yönetimi
-- **Role-based Authorization** - Rol bazlı yetkilendirme
-- **Cookie Authentication** - Çerez tabanlı oturum yönetimi
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Identity](https://img.shields.io/badge/Identity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3F51B5?style=for-the-badge&logo=oauth&logoColor=white)
+![Cookie Auth](https://img.shields.io/badge/Cookie_Auth-FF6F00?style=for-the-badge&logo=cookie&logoColor=white)
 
 ### 🗄️ Veritabanı & Veri Erişim
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-- **LINQ** - Language Integrated Query
-- **Dapper** - Micro ORM
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-FFA500?style=for-the-badge&logo=database&logoColor=white)
 
 ### 📨 Messaging & Background Jobs
-- **Kafka** - Dağıtık mesajlaşma sistemi
-- **RabbitMQ** - Message broker
-- **SignalR** - Real-time web functionality
-- **Hangfire** - Background job processing
-- **Polly** - Resilience and transient-fault-handling
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-005571?style=for-the-badge&logo=.net&logoColor=white)
+![Polly](https://img.shields.io/badge/Polly-25A162?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🏗️ Architecture & Patterns
-- **Clean Architecture** - Temiz mimari prensipleri
-- **Repository Pattern** - Veri erişim soyutlaması
-- **N-Tier Architecture** - Katmanlı mimari
-- **SOLID Principles** - Yazılım tasarım prensipleri
-- **Dependency Injection** - Bağımlılık enjeksiyonu
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-4ECDC4?style=for-the-badge&logo=git&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-95E1D3?style=for-the-badge&logo=solid&logoColor=white)
+![DI](https://img.shields.io/badge/Dependency_Injection-F38181?style=for-the-badge&logo=dependencies&logoColor=white)
+![N-Tier](https://img.shields.io/badge/N--Tier_Architecture-AA96DA?style=for-the-badge&logo=layers&logoColor=white)
 
 ### 🛠️ AI-Powered Development Tools
 ![Claude](https://img.shields.io/badge/Claude_Code-FF7139?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -104,18 +104,15 @@ Kurumsal e-ticaret platformu. Admin paneli üzerinden kullanıcı, rol, izin ve 
 ![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 📦 API Development
-- **Refit** - Type-safe REST library
-- **RESTful API Design** - REST prensipleri
+![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=api&logoColor=white)
+![Refit](https://img.shields.io/badge/Refit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ## 🎓 Eğitim
 
 - **🎓 Gedik Üniversitesi** - Bilgisayar Mühendisliği (2022 - 2025)
 - **📚 Düzce Üniversitesi** - Bilgisayar Programcılığı (2019 - 2021)
 
-## 📊 GitHub İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaCanturk61&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaCanturk61&layout=compact&theme=dark)
 
 ## 🌟 Odak Alanlarım
 
