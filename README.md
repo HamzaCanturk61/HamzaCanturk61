@@ -23,11 +23,6 @@ AI destekli e-ticaret platformu. Yapay zeka servisleri ile yüz şekli analizi v
 
 Clean Architecture prensiplerine uygun olarak Core, Infrastructure, API, Web ve Mobile katmanlarına ayrıştırılmış çok platformlu kelime bulma oyunu. JWT token tabanlı güvenlik ve kapsamlı test altyapısı.
 
-### ⚽ Match Prediction Platform
-**Teknolojiler:** ASP.NET Core MVC, Entity Framework Core, SignalR, Clean Architecture
-
-Gerçek zamanlı skor takibi ve tahmin sistemi. Kullanıcıların maç sonuçlarını tahmin edebileceği, canlı skorları takip edebileceği interaktif platform.
-
 ### 📚 Keling Language Learning App
 **Teknolojiler:** Flutter, Dart, Riverpod, SQLite
 
